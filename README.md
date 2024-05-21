@@ -11,7 +11,7 @@ This is the backend of the employee management application built using .NET Core
 
 ## Client Project
 
-For the frontend part of this application, visit the [Client Repository](https://github.com/ShevyKossovsky/Employee-Management-Application/client).
+For the frontend part of this application, visit the [Client Repository](https://github.com/ShevyKossovsky/Practicum-client).
 
 ### Implemented Features
 
